@@ -1,6 +1,1 @@
-![Miralisa](images/Keratin.png)
-![Miralisa](images/Collagen Green.png)
-![Miralisa](images/Olive Oil.png)
-![Miralisa](images/Hyaluronic.png)
-![Miralisa](images/Collagen.png)
-![Miralisa](images/Argan.png)
+![ЯМОЮ](images/yamoyu.jpg)
